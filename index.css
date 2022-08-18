@@ -1,0 +1,134 @@
+:root {  
+  --Softred: hsl(7, 99%, 70%);
+  --Yellow: hsl(51, 100%, 49%);
+  --Darkdesaturatedcyan : hsl(167, 40%, 24%);
+  --Darkblue : hsl(198, 62%, 26%);
+  --Darkmoderatecyan : hsl(168, 34%, 41%);
+  --Verydarkdesaturatedblue: hsl(212, 27%, 19%);
+  --Verydarkgrayishblue: hsl(213, 9%, 39%);
+  --Darkgrayishblue: hsl(232, 10%, 55%);
+  --Grayishblue: hsl(210, 4%, 67%);
+  --White: hsl(0, 0%, 100%);
+  --high : 690px;
+
+  --font-family: "Barlow", sans-serif;
+  --font-famil: 'Fraunces', serif;
+  --marg:656px;
+  --crwdth: 800px;
+  --egght: 560px;
+  --eggpadd:100px;  
+  --lnwi:120px;
+  --lnpad: 150px;
+  --secth:550px;
+  --pddes:370px;
+  --t_pad:70px;
+  --fthgh:350px;
+  
+  --navh:70px;
+  --nav_bg: #29befe
+}
+.top-40{
+  top: 49%;
+}
+.top-10{
+  top: 10%;
+}
+.arr_high{
+  height: px;
+}
+.nav_bg_col{
+  background-color: var(--nav_bg);
+}
+.nav_height{
+height: var(--navh);
+}
+
+.pink{
+  border-bottom : var(--Softred) 3px solid;  
+  width: 150px;
+}
+.fb{
+  background-color: var(--Darkdesaturatedcyan);
+}
+
+
+.foothigh{
+  height: var(--fthgh);
+}
+.footcol{
+  background-color: var(--Darkmoderatecyan);
+}
+.testpad{
+  padding-top: var(--t_pad);
+  padding-bottom: 50px;
+}
+.testhd{
+  color: var(--Grayishblue);
+}
+.photocol{
+  color: var(--Darkblue);
+}
+.g_descol{
+  color: var(--Darkdesaturatedcyan);
+}
+.g_desnpad{
+  padding-top: var(--pddes);
+}
+.g_dsnh{
+  height: var(--secth);
+}
+.learnpad{
+  margin-left: var(--lnpad);
+}
+.lernwid{
+  width: var(--lnwi);
+}
+
+.yell{
+border-bottom : var(--Yellow) 3px solid;  
+width: 150px;
+}
+.p-00 {
+  padding-top: 55px !important;
+}
+.eggpad{
+  padding-top: var(--eggpadd);
+}
+.trnh{
+  color: var(--Verydarkdesaturatedblue);
+}
+
+.trn{
+  color: var(--Verydarkgrayishblue);
+}
+
+.height{
+  height: var(--high);
+}
+.btnh{
+  margin-top: var(--btnht);
+}
+.family{
+  font-family: var(--font-family);
+}
+.famil{
+  font-family: var(--font-famil);
+}
+.mgn{
+  margin-left: var(--marg);
+}
+.creare{
+  width: var(--crwdth);
+}
+.eggg{
+  background-color: var(--Yellow);
+}
+.eggheight{
+  height: var(--egght);
+}
+.object-cover {
+  width: 100%;
+  -o-object-fit: contain;
+  object-fit: contain;
+}
+
