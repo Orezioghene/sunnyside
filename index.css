@@ -27,6 +27,9 @@
   --navh:70px;
   --nav_bg: #29befe
 }
+.mheight{
+  height: 500px;
+}
 .top-40{
   top: 49%;
 }
