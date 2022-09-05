@@ -32,7 +32,7 @@ Mobile View
 ![2022-08-18 (7)](https://user-images.githubusercontent.com/105548322/185432275-cfa71622-4890-497d-9f60-a74dec935214.png)
 
 1.03 Links
-- Live Site URL: https://github.com/Orezioghene/sunnyside.git
+- Live Site URL: https://orezioghene.github.io/sunnyside/
 
 2.0  My process
 2.01 Built with
