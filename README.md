@@ -32,7 +32,7 @@ Mobile View
 ![2022-08-18 (7)](https://user-images.githubusercontent.com/105548322/185432275-cfa71622-4890-497d-9f60-a74dec935214.png)
 
 1.03 Links
-- Live Site URL: https://github.com/Orezioghene/sunnyside.git
+- Live Site URL: https://orezioghene.github.io/sunnyside/
 
 2.0  My process
 2.01 Built with
@@ -58,8 +58,8 @@ This project has made me realize that I need to work more on my bootstrap skills
 - Twitter - [@Orezioghene1](https://www.twitter.com/Orezioghene1)
 
 3.0 Acknowledgments
-I'd like to appreciate my supervisor, Mr Biodun Oluwashina and  my fellow intern Adebisi Aderonke, who helped me when I had issues working on the project. I'd like to also thank the people who dropped very intelligent solutions on stack overflow which helped me in some issues faced while working onthe project as well
+I'd like to appreciate my supervisor and my fellow intern from Smartware Solutions, who helped me when I had issues working on the project. I'd like to also thank the people who dropped very intelligent solutions on stack overflow which helped me in some issues faced while working onthe project as well
 
 
-
+ 
 
