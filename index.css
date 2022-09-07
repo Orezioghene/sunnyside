@@ -131,7 +131,13 @@ width: 150px;
 }
 .object-cover {
   width: 100%;
-  -o-object-fit: contain;
+ 
   object-fit: contain;
 }
+.object-contain {
+  width: 100%;
+  /* -o-object-fit:cover; */
+  object-fit: cover;
+}
+
 
